@@ -1,0 +1,22 @@
+{
+  "name": "exchangeRateChart",
+  "homepage": "https://github.com/slkuo230/exchangeRateChart",
+  "authors": [
+    "Robert Kuo <rkuo@paypal.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "Polymer",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
