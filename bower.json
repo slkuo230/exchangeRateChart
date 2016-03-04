@@ -5,7 +5,7 @@
     "Robert Kuo <rkuo@paypal.com>"
   ],
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "moduleType": [],
   "keywords": [
     "Polymer",
